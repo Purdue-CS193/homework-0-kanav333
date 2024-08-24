@@ -1,3 +1,9 @@
+# Kanav Khurana 
+
+## Favourtie things about CS193
+- How the professor explains the material, it is easy to understand.
+- Hands on experience I am getting by taking the class.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
