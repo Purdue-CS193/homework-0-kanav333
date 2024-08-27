@@ -1,6 +1,6 @@
 # Kanav Khurana 
 
-## Favourtie things about CS193
+## Favourite things about CS193
 - How the professor explains the material, it is easy to understand.
 - Hands on experience I am getting by taking the class.
 
